@@ -1,7 +1,16 @@
-# portfolio-2
-cd /caminho/para/meu-portfolio
-git init
-git remote add origin https://github.com/seu-usuario/portfolio.git
-git add .
-git commit -m "Meu portfólio"
-git push -u origin master
+# Portfólio Pessoal
+
+Bem-vindo ao meu portfólio! Este projeto é uma coleção dos meus trabalhos, experiências e habilidades como desenvolvedor.
+
+## 🔗 Link ao vivo
+
+[Veja meu portfólio online](https://cesinhatz.github.io/portfolio-2)
+
+## 💡 Sobre o projeto
+
+Este portfólio foi criado com HTML, CSS e JavaScript (ou outra stack que você usou). O objetivo é apresentar meus principais projetos, experiências profissionais e habilidades técnicas de forma clara e atrativa.
+
+## 🛠 Tecnologias utilizadas
+
+- HTML5
+- Git e GitHub
